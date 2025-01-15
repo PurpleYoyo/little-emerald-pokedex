@@ -1,4 +1,4 @@
-window.repo = "BuffelSaft/pokeemerald/master"
+window.repo = "PurpleYoyo/Little-Emerald/main"
 window.checkUpdate = "16 IE"
 window.showShinyToggle = true
 
